@@ -11,8 +11,8 @@
 
 <a href="https://github.com/XLions?tab=followers"><img src="https://img.shields.io/github/followers/XLions?label=Followers&style=flat-square&color=0C447C" /></a>
 <img src="https://komarev.com/ghpvc/?username=XLions&label=Profile+views&color=1D9E75&style=flat-square" />
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-contact-BA7517?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://orcid.org/YOUR-ORCID"><img src="https://img.shields.io/badge/ORCID-profile-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+<a href="mailto:liuzhaoshuo1997@outlook.com"><img src="https://img.shields.io/badge/Email-contact-BA7517?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0007-3615-5724"><img src="https://img.shields.io/badge/ORCID-profile-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
 
 </div>
 
