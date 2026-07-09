@@ -22,7 +22,7 @@
 
 - MSc Bioinformatics @ **University of Birmingham** (expected Sep 2026), with a prior background in clinical and basic medicine.
 - Dissertation work on **GBM - scRNA**, supervised by Dr. Deena.
-- I build tooling that makes multi-omics analysis reproducible rather than one-off: R packages, Shiny dashboards, Nextflow-friendly pipelines.
+- I build tooling that makes multi-omics analysis reproducible rather than one-off: R packages, Shiny dashboards.
 - Applying for **PhD programmes, Fall 2027 entry** — interested in epigenetic regulation, cancer genomics, and phage therapy / AMR.
 - Off the bench, I write and edit on **ACGN culture and media criticism**.
 
@@ -52,6 +52,7 @@
 
 | Project | What it does | Status |
 |---|---|---|
+| [**ggDragonMaid**](https://github.com/XLions/ggDragonMaid) | `ggDragonMaid` delivers classic color palettes inspired by the 12 main characters from the anime Miss Kobayashi's Dragon Maid. | [🐲👩](https://github.com/XLions/ggDragonMaid) |
 | [**ggChinaFlag**](https://github.com/XLions/ggChinaFlag) | A `ggplot2` extension for drawing the Chinese national flag with correct geometry. | [![CRAN](https://www.r-pkg.org/badges/version/ggChinaFlag)](https://cran.r-project.org/package=ggChinaFlag) |
 | **ehmt2** | Shiny dashboard for exploring EHMT2 targets across HCC datasets. | 🔬 Research code |
 
