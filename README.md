@@ -21,7 +21,7 @@
 ### About me
 
 - MSc Bioinformatics @ **University of Birmingham** (expected Sep 2026), with a prior background in clinical and basic medicine.
-- Dissertation work on **EHMT2/G9a-mediated repressive regulation in hepatocellular carcinoma**, supervised by Dr. Saad.
+- Dissertation work on **GBM - scRNA**, supervised by Dr. Deena.
 - I build tooling that makes multi-omics analysis reproducible rather than one-off: R packages, Shiny dashboards, Nextflow-friendly pipelines.
 - Applying for **PhD programmes, Fall 2027 entry** — interested in epigenetic regulation, cancer genomics, and phage therapy / AMR.
 - Off the bench, I write and edit on **ACGN culture and media criticism**.
