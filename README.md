@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:1D9E75&height=170&section=header&text=Zhaoshuo%20Liu&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Bioinformatics%20·%20Epigenetics%20·%20R%20packages&descAlignY=52&descSize=16" width="100%" />
 
 <a href="https://github.com/XLions">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=900&color=1D9E75&center=true&vCenter=true&width=520&lines=From+the+clinic+to+the+chromatin.;bulk+%2B+sc+RNA-seq%2BATAC-seq%2C+made+reproducible;Anime+Game+TikTok" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=900&color=1D9E75&center=true&vCenter=true&width=520&lines=From+the+clinic+to+the+chromatin.;bulk%2Bsc+RNA-seq%2BATAC-seq%2C+made+reproducible;Anime+Game+TikTok" alt="Typing SVG" />
 </a>
 
 <br/>
